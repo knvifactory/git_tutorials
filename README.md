@@ -1,6 +1,6 @@
 # About
 
-This Readme provides you links to usefull tutorials and other stuff conected to git
+This Readme provides you links to useful tutorials and other stuff conected to git
 
 ## Links
 1. [git cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)
